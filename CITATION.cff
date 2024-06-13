@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MEI-Reconstruction
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Fabio
+    family-names: Cantatore
+    email: fcantatore02@gmail.com
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/fcantatore/MEI-Reconstruction
+    description: >-
+      Python notebook with implementation of numerical
+      methods
+repository-code: >-
+  https://github.com/fcantatore/MEI-Reconstruction
+abstract: >-
+  Updated code implementation for the reconstruction of Most Exciting Images
+  of a mouse brain using a CNN architecture, part of Fabio Cantatore's
+  bachelor thesis at Bocconi University in the degree of Mathematical and
+  Computing Sciences for Artificial Intelligence.
