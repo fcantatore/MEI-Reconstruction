@@ -10,7 +10,10 @@ I will explain what challenges I encountered in both the control environment and
 
 # Structure
 - [`Control Environment`](Control_Environment.ipynb); contains code relative to challenges, solutions and results encountered in the control environment and used as an initial validation of the results.
-- [`Main Model`](Main_Model.ipynb); contains the code and results relative to the control environment used for an initial validation of the results
+- [`Main Model`](Main_Model.ipynb); contains the code used to obtain the MEI as well as animations of the optimization process and both penalties on Contrast and Brightness.
+- [`animations`](animations/.); is a folder containing examples of the animaited optimization process, from the random noise to the final MEI.
+- [`images`](images/.); is a folder containing both individual MEIs and collections of the most relevant in terms of oracle score.
 
 
-# Overview
+# Examples
+![](animations\animation0.gif)
